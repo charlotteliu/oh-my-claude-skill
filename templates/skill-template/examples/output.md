@@ -1,0 +1,13 @@
+# Example Output
+
+## Summary
+- ...
+
+## Artifacts
+- ...
+
+## Verification
+- ...
+
+## Next Actions
+- ...
